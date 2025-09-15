@@ -32,6 +32,7 @@ Features
 
 The data directory is structured as follows.
 
+```
 project/
 ├── train/
 │   ├── daisy/
@@ -43,6 +44,7 @@ project/
     ├── image_001.jpg
     ├── image_002.jpg
     └── ... (924 images)
+```
 
 ## Model Training Pipeline
 
