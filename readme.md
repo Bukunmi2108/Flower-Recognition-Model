@@ -32,6 +32,7 @@ Features
 
 The data directory is structured as follows.
 
+project/
 ├── train/
 │   ├── daisy/
 │   ├── dandelion/
